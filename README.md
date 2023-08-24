@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# <Taka, World👋>
+  
+  
 <div align="center">
 <img src="https://github.com/akkawit666/akkawit666/blob/main/static/images/365954243_776921190838873_938872777068141751_n.jpg?raw=true" align="center" style="width: 50%" />
 </div>  
@@ -86,17 +87,13 @@
  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+  
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=akkawit666&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fkvq4unrmwbehyhcxaw7n45vby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
 
