@@ -96,6 +96,10 @@
 
 <br/>  
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fkvq4unrmwbehyhcxaw7n45vby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<br/>
+
 <div align="center">
             <a href="https://www.buymeacoffee.com/akkawit666" target="_blank" style="display: inline-block;">
                 <img
