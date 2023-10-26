@@ -2,7 +2,7 @@
   
   
 <div align="center">
-<img src="https://github.com/akkawit666/akkawit666/blob/main/static/images/365954243_776921190838873_938872777068141751_n.jpg?raw=true" align="center" style="width: 50%" />
+
 </div>  
 
 ### <div align="center">I'm Ak-kawit Tahae, a full-time freelance full-stack developer 👨‍💻 working the hybrid workplace since 2023 🚀</div>  
