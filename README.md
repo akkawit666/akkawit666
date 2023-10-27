@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to MEAN stack and related technologies  
   
 
-- ⚡ Fun fact: I do more than just talk.  
+- ⚡ Fun fact: I'm talk more than do, earn more than talk
   
 
 <br/>  
